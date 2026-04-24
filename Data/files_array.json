@@ -2,7 +2,6 @@
 {"bulk_rides.json"},
 {"map_cancellation_reasons.json"},
 {"map_cities.json"},
-{"pdate map_cities.json"},
 {"map_payment_methods.json"},
 {"map_ride_statuses.json"},
 {"map_vehicle_makes.json"},
